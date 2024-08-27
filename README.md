@@ -5,3 +5,8 @@
 
 
 [Predicting housing prices using machine learning](https://github.com/kurumbus/machine-learning-tutorials/blob/master/Housing.ipynb) - not very advanced (uses regression), but good as a starting point
+
+![download](https://github.com/user-attachments/assets/2f019b68-2454-4c13-ac18-00fc49fb8a34)
+
+
+![2024-08-27_15h46_10](https://github.com/user-attachments/assets/d7ea59d0-cb64-40c0-85b1-a5227ffc7494)
